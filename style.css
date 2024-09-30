@@ -1,0 +1,141 @@
+#rectangle {
+	width: 550px;
+	height: 300px;
+  border-radius:10px;
+background: linear-gradient(238deg, rgba(153,218,255,1) 0%, rgba(161,139,159,1) 100%);
+  position: absolute; 
+  margin: auto; 
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
+}
+
+
+.BharatSarkar{
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
+  font-size:18px;
+  margin-left:420px;
+   margin-top:-55px;
+}
+.income{
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
+  font-size:18px;
+  margin-left:9px;
+  margin-top:-75px;
+}
+.gov{
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
+  font-size:16px;
+  margin-left:420px;
+  margin-top:-0px;
+}
+.tax{
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
+  font-size:16px;
+  margin-left:10px;
+  margin-top:-0px;
+}
+.A{
+  margin-top:10px;
+  margin-left:280px;
+}
+
+.text1{
+ 
+  width:250px;
+  font-size:14px;
+  margin-left:25px;
+  margin-top:-5px;
+  text-decoration:none;
+  color:#043380;
+  
+}
+.text2
+{ 
+  
+  width:350px;
+  font-size:15px;
+  margin-left:18px;
+  margin-top:-10px;
+  color:#043380;
+}
+.text3
+{ 
+  
+  width:350px;
+  font-size:15px;
+  margin-left:18px;
+  margin-top:-10px;
+  color:#000;
+}
+a{
+
+  color:#000;
+  
+}
+.aaa{
+  margin-left:10px;
+border:1px solid #000;
+  width:190px;
+}
+.pic
+{
+height: 80px;
+width: 80px
+
+
+}
+.img{
+  margin-left:25px;
+margin-top: -80px;
+}
+#name{
+margin-top: 5px;
+font-size: 13px;
+}
+#raj{
+  margin-left: 25px;
+  margin-top: -15px;
+  
+font-size: 13px;
+}
+#name2{
+  margin-top: -8px;
+font-size: 13px;
+
+}
+#birth{
+  font-size: 13px;
+  width: 100px;
+  
+}
+#date{
+  font-size: 13px;
+  margin-left: 25px;
+  margin-top: -10px;
+}
+#sign{
+  margin-top: -25px;
+  font-size: 13px;
+}
+.sig{
+  height: 70px;
+  margin-top: -70px;
+}
+.qr{
+height: 120px;
+width: 120px;
+border: #fff;
+border-style: solid;
+border-width: 10px;
+}
+.box{
+  margin-top:-190px;
+  margin-left:395px;
+}
+#no{
+  margin-left: 475px;
+  font-size: 12px;
+  margin-top: 1px;
+}
